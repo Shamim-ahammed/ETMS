@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Shamim/Xampp/htdocs/ETMS/resources/views/admin/includes/menu.blade.php</file>
+            <file>file:/E:/Shamim/Xampp/htdocs/ETMS/resources/views/admin/includes/user/controlUser.blade.php</file>
+            <file>file:/E:/Shamim/Xampp/htdocs/ETMS/app/Http/Controllers/AdminController.php</file>
+            <file>file:/E:/Shamim/Xampp/htdocs/ETMS/resources/views/admin/includes/user/userList.blade.php</file>
+            <file>file:/E:/Shamim/Xampp/htdocs/ETMS/routes/web.php</file>
+            <file>file:/E:/Shamim/Xampp/htdocs/ETMS/resources/views/admin/includes/user/addUser.blade.php</file>
+        </group>
+    </open-files>
+</project-private>

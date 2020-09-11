@@ -1,0 +1,8 @@
+Make Projrct
+composer create-project --prefer-dist laravel/laravel blog
+
+Make Controller
+php artisan make:controller AdminController
+
+Install Laravel ui
+composer require laravel/ui "^2.0" -vvv
